@@ -1,6 +1,6 @@
 # AddressBook
 simple address book by c++
-#structure
+# structure
 some data structure knowlege
 
 ## bubble sort
